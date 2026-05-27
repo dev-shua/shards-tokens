@@ -1,6 +1,6 @@
 {
-  "name": "shards-travel",
-  "description": "Travel module for Foundry VTT",
+  "name": "shards-tokens",
+  "description": "Token Sight & Light presets for Foundry VTT",
   "license": "MIT",
   "author": "Shua",
   "private": true,

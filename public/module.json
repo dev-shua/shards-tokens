@@ -4,7 +4,7 @@
   "description": "Token vision and light presets panel for the SHARDS Dock",
   "authors": [{ "name": "Shua", "email": "dev.shuapi@gmail.com" }],
   "version": "1.0.0",
-  "compatibility": { "minimum": "13", "verified": "13" },
+  "compatibility": { "minimum": "13", "verified": "14" },
   "esmodules": ["module.js"],
   "styles": ["styles/module.css"],
   "languages": [
